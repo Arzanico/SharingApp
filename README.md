@@ -4,6 +4,8 @@ Im using this repository to follow a course.
 
 The course is Object-Oriented Design by University of Alberta.
 
+Im in the still finishing the module 1. This course is part of the Software Design and Architecture Specialization.
+
 Below the description of the courde from Coursera.
 
 This course takes Java beginners to the next level by covering object-oriented analysis and design. You will discover how to create modular, flexible, and reusable software, by applying object-oriented design principles and guidelines. And, you will be able to communicate these designs in a visual notation known as Unified Modelling Language (UML).
