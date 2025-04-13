@@ -1,25 +1,38 @@
-# SharingApp
+# 🎓 Object-Oriented Design Journey 🚀  
+📚 *University of Alberta – Software Design and Architecture Specialization*
 
-Im using this repository to follow a course.
+---
 
-The course is Object-Oriented Design by University of Alberta.
+👋 Hey there! I'm using this repository to follow along with the **[Software Design and Architecture Specialization]([https://www.coursera.org/specializations/software-design-architecture])** course offered by the **University of Alberta** on Coursera.
 
-Im in the still finishing the module 1. This course is part of the Software Design and Architecture Specialization.
+🧱 I'm currently working through **Module 1**
 
-Below the description of the courde from Coursera.
+---
 
-This course takes Java beginners to the next level by covering object-oriented analysis and design. You will discover how to create modular, flexible, and reusable software, by applying object-oriented design principles and guidelines. And, you will be able to communicate these designs in a visual notation known as Unified Modelling Language (UML).
+## 📖 Course Description (from Coursera):
 
-You will be challenged in the Capstone Project to apply your knowledge of object-oriented design by evolving and documenting the Java codebase for an Android application with corresponding UML documentation.
+> This course takes **Java beginners to the next level** by covering **object-oriented analysis and design**.  
+> You'll discover how to create **modular, flexible, and reusable software** by applying object-oriented design principles and guidelines.  
+> And you'll learn to communicate your designs visually using **Unified Modeling Language (UML)** 🎨📊
 
-After completing this course, you will be able to: 
-• Apply the Class Responsibility Collaborator (CRC) technique to analyze and design the object-oriented model for a problem.	
-• Explain and apply object-oriented modeling principles and their purpose (e.g., abstraction, encapsulation, decomposition, generalization).
-• Explain and apply different types of inheritance
-• Explain the difference between association, aggregation, and composition dependencies.
-• Express object-oriented models as Unified Modeling Language (UML) class diagrams.
-• Translate between UML class diagrams and equivalent Java code.
-• Apply design guidelines for modularity, separation of concerns, information hiding, and conceptual integrity to create a flexible, reusable, maintainable design.
-• Explain the tradeoff between cohesion and coupling.
+---
 
+## 🧠 What *I* Will Learn (according to Coursera):
 
+- Apply the **Class Responsibility Collaborator (CRC)** technique to analyze and design object-oriented models  
+- Explain and apply **object-oriented modeling principles** like abstraction, encapsulation, decomposition, and generalization  
+- Understand and apply different types of **inheritance** 🧬  
+- Explain the differences between **association**, **aggregation**, and **composition**  
+- Express object-oriented models as **UML class diagrams**  
+- Translate between **UML class diagrams and equivalent Java code** 🔁  
+- Apply design guidelines for **modularity**, **separation of concerns**, **information hiding**, and **conceptual integrity**  
+- Understand the **tradeoff between cohesion and coupling** 🔧
+
+---
+
+## 🎯 Capstone Challenge:
+I'll get to put it all into practice by evolving and documenting a **Java codebase for an Android app**, complete with **UML documentation**! 📱🛠️
+
+---
+
+### 🧑‍💻 Let’s Build Some Beautiful Code!
