@@ -5,7 +5,7 @@
 
 👋 Hey there! I'm using this repository to follow along with the **[Software Design and Architecture Specialization]([https://www.coursera.org/specializations/software-design-architecture])** course offered by the **University of Alberta** on Coursera.
 
-🧱 I'm currently working through **Module 1** **Object-Oriented Design Journey**
+🧱 I'm currently working through **Module 1** **Object-Oriented Design**
 
 ---
 
