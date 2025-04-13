@@ -61,7 +61,7 @@ public class EditContactActivity extends AppCompatActivity {
 
         // Check that username is unique AND username is changed (Note: if username was not changed
         // then this should be fine, because it was already unique.)
-        if (!contact_list.isUsernameAvailable(username_str) && !(contact.getUsername().equals(username_str))) {
+        if (contact_list.isUsernameAvailable(username_str) && !(contact.getUsername().equals(username_str))) {
             username.setError("Username already taken!");
             return;
         }
