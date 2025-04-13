@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle-wrapper.jar
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Auto-generated
+captures/
+output.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor swap files
+*.swp
+
+# Others
+*.hprof
+
+*.bat~     # backup files
+*.bat.old  # old versions
