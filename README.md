@@ -1,13 +1,13 @@
 # 🎓 Software Design and Architecture Specialization🚀  
 📚 *University of Alberta – Software Design and Architecture Specialization*
 
----
+----
 
 👋 Hey there! I'm using this repository to follow along with the **[Software Design and Architecture Specialization]([https://www.coursera.org/specializations/software-design-architecture])** course offered by the **University of Alberta** on Coursera.
 
 🧱 I'm currently working through **Module 1** **Object-Oriented Design**
 
----
+----
 
 ## 📖 Course Description (from Coursera):
 
@@ -15,7 +15,7 @@
 > You'll discover how to create **modular, flexible, and reusable software** by applying object-oriented design principles and guidelines.  
 > And you'll learn to communicate your designs visually using **Unified Modeling Language (UML)** 🎨📊
 
----
+----
 
 ## 🧠 What *I* Will Learn (according to Coursera):
 
@@ -28,11 +28,11 @@
 - Apply design guidelines for **modularity**, **separation of concerns**, **information hiding**, and **conceptual integrity**  
 - Understand the **tradeoff between cohesion and coupling** 🔧
 
----
+----
 
 ## 🎯 Capstone Challenge:
 I'll get to put it all into practice by evolving and documenting a **Java codebase for an Android app**, complete with **UML documentation**! 📱🛠️
 
----
+----
 
 ### 🧑‍💻 Let’s Build Some Beautiful Code!
